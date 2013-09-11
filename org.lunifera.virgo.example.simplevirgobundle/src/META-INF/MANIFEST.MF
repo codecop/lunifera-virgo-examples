@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Export-Package: org.lunifera.virgo.example.simplevirgobundle;version="
+ 1.0.0.qualifier";uses:="org.osgi.framework"
+Bundle-Version: 1.0.0.qualifier
+Tool: Bundlor 1.1.2.RELEASE
+Bundle-Name: Simple Virgo Bundle
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.lunifera.virgo.example.simplevirgobundle.VirgoBu
+ ndleActivator
+Import-Package: org.osgi.framework;version="[1.7.0,1.7.0]",org.slf4j;v
+ ersion="[1.7.2,1.7.2]"
+Bundle-SymbolicName: org.lunifera.virgo.example.simplevirgobundle
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

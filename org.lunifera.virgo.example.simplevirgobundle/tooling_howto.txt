@@ -1,0 +1,3 @@
+after creating a new Virgo Bundle Project 
+copy the MANIFEST.MF to template.mf and
+make sure to add the target runtime as Virgo.

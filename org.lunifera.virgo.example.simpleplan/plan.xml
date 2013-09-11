@@ -1,0 +1,9 @@
+<plan name="org.lunifera.virgo.example.simpleplan" version="3.6.2"
+	scoped="false" atomic="false" xmlns="http://www.eclipse.org/virgo/schema/plan"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.eclipse.org/virgo/schema/plan http://www.eclipse.org/virgo/schema/plan/eclipse-virgo-plan.xsd">
+
+	<artifact type="bundle" name="org.lunifera.virgo.example.simplelogbundle" version="0.0.0" />
+	<artifact type="bundle" name="org.lunifera.virgo.example.simplevirgobundle"	version="0.0.0" />
+	<!-- <artifact type="configuration" name="osgi.console" version="0" /> -->
+</plan>

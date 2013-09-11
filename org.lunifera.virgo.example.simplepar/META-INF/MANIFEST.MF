@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Application-Name: Simple Virgo Par
+Application-Version: 1.0.0.qualifier
+Application-SymbolicName: org.lunifera.virgo.example.simplepar
+

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0.qualifier
+Bundle-Name: Bundle
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.lunifera.virgo.example.maven.bundle
+Bundle-Activator: org.lunifera.virgo.example.maven.bundle.SimpleBundleActivator
+Import-Package: org.osgi.framework;version="[1.7.0,1.7.0]",
+ org.slf4j;version="[1.7.2,1.7.2]"

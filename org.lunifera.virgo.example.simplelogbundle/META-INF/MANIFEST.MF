@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Simple Log Bundle
+Bundle-Description: A simple bundle without any Virgo magic that just logs a statement on startup.
+Bundle-SymbolicName: org.lunifera.virgo.example.simplelogbundle
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: org.lunifera.virgo.example.simplelogbundle.SimpleBundleActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.osgi.framework,
+ org.slf4j;version="1.7.2"
+Import-Comment: slf4j 1.7.2 is bundled with Virgo 3.6.2
