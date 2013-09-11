@@ -30,7 +30,7 @@
 				<configuration>
 					<outputDirectory>${project.build.directory}/par-provided</outputDirectory>
 					<overWriteIfNewer>true</overWriteIfNewer>
-					<excludeGroupIds>org.osgi,org.eclipse.virgo,org.slf4j</excludeGroupIds>
+					<excludeGroupIds>org.osgi,org.eclipse.virgo,org.slf4j,org.springframework</excludeGroupIds>
 				</configuration>
 				<executions>
 					<execution>

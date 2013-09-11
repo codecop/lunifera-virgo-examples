@@ -12,6 +12,7 @@
 	<modules>
 		<module>../org.lunifera.virgo.example.maven.bundle</module>
 		<module>../org.lunifera.virgo.example.maven.par</module>
+		<module>../org.lunifera.virgo.example.maven.spring</module>
 	</modules>
 
 	<build>
