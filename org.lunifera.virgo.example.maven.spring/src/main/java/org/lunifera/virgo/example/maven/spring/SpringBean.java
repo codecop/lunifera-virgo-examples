@@ -10,7 +10,7 @@ public class SpringBean {
 	@PostConstruct
 	public void log() {
 		Logger logger = LoggerFactory.getLogger(getClass());
-		logger.info("xxxxxxxxxxx STARTED xxxxxxxxxxxx");
+		logger.info("xxxxxxxxxxx Spring STARTED xxxxxxxxxxxx");
 	}
 
 }

@@ -9,12 +9,12 @@ public class SimpleBundleActivator implements BundleActivator {
 
 	public void start(BundleContext bundleContext) throws Exception {
 		Logger logger = LoggerFactory.getLogger(getClass());
-	    logger.info("xxxxxxxxxxx STARTED xxxxxxxxxxxx");
+	    logger.info("xxxxxxxxxxx Maven STARTED xxxxxxxxxxxx");
 	}
 
 	public void stop(BundleContext bundleContext) throws Exception {
 		Logger logger = LoggerFactory.getLogger(getClass());
-	    logger.info("xxxxxxxxxxx STOPPED xxxxxxxxxxxx");
+	    logger.info("xxxxxxxxxxx Maven STOPPED xxxxxxxxxxxx");
 	}
 
 }

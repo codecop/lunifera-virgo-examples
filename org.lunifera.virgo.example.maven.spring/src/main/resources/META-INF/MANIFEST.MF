@@ -5,7 +5,6 @@ Bundle-Version: 1.0.0.qualifier
 Tool: Bundlor 1.1.2.RELEASE
 Bundle-Name: Spring
 Bundle-ManifestVersion: 2
-Import-Package: javax.annotation,org.slf4j;version="[1.7.2,1.7.2]",org
- .springframework.context;version="[3.1.0.RELEASE,3.1.0.RELEASE]"
+Import-Package: javax.annotation,org.slf4j;version="[1.7.2,1.7.2]"
 Bundle-SymbolicName: org.lunifera.virgo.example.maven.spring
 
