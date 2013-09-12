@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Export-Package: org.lunifera.virgo.example.maven.springapi;version="1.
+ 0.0.qualifier"
+Bundle-Version: 1.0.0.qualifier
+Tool: Bundlor 1.1.2.RELEASE
+Bundle-Name: Spring
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.lunifera.virgo.example.maven.springapi
+

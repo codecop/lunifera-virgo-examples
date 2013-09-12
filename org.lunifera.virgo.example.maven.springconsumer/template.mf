@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0.qualifier
+Bundle-Name: Spring
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.lunifera.virgo.example.maven.springconsumer
+Import-Package: org.lunifera.virgo.example.maven.springapi;version="[1.0.0.qualifier,1.0.0.qualifier]",
+ org.slf4j;version="[1.7.2,1.7.2]"
+Excluded-Exports: *
