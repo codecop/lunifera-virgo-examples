@@ -14,9 +14,7 @@
 		<module>../org.lunifera.virgo.example.maven.par</module>
 		<module>../org.lunifera.virgo.example.maven.spring</module>
 		<module>../org.lunifera.virgo.example.maven.springapi</module>
-		<module>
-			../org.lunifera.virgo.example.maven.springconsumer
-		</module>
+		<module>../org.lunifera.virgo.example.maven.springconsumer</module>
 		<module>../org.lunifera.virgo.example.maven.springimpl</module>
 	</modules>
 
